@@ -25,18 +25,18 @@
 		"list.focusBackground": "#200000",//"#222222",
 		"list.focusForeground": "#f7f1ff",
 		"list.activeSelectionBackground": "#200000",//"#222222",
-		"list.activeSelectionForeground": "#fbff00",//"#46ff26",
+		//"list.activeSelectionForeground": "#fbff00",//"#46ff26",
 		"list.inactiveSelectionBackground": "#200000",//"#222222",
-		"list.inactiveSelectionForeground": "#fbff00",//"#68d0dd",
+		//"list.inactiveSelectionForeground": "#fbff00",//"#68d0dd",
 		"list.hoverBackground": "#200000",//"#222222",
 		"list.hoverForeground": "#f7f1ff",
 		"list.dropBackground": "#383b3d", //"#222222bf" //monokai
 		"list.highlightForeground": "#f7f1ff",
 		"pickerGroup.foreground": "#f7f1ff", //"#525053",
 		"pickerGroup.border": "#f7f1ff", //"#222222",
-		"button.foreground": "#8b888f",
-		"button.background": "#363537",
-		"button.hoverBackground": "#222222",
+		"button.foreground": "#fff8f1",  //"#8b888f",
+		"button.background": "#200000", //"#363537",
+		"button.hoverBackground": "#500000",//"#222222",
 		"badge.background": "#fce566",
 		"badge.foreground": "#222222",
 		"scrollbar.shadow": "#000000", //"#222222", //monokai
@@ -172,7 +172,8 @@
 		"textCodeBlock.background": "#ff0000",
 		"textLink.activeForeground": "#fbff00",
 		"textLink.foreground": "#fbff00",
-		
+	
+
 		// "notification.foreground": "#bab6c0",
 		// "notification.background": "#191919",
 		// "notification.buttonBackground": "#363537",
@@ -198,11 +199,13 @@
 		"editorOverviewRuler.modifiedForeground": "#fd9353",
 		"editorOverviewRuler.addedForeground": "#7bd88f",
 		"editorOverviewRuler.deletedForeground": "#fc618d",
-		"welcomePage.buttonBackground": "#4e321a",//"#363537",
-		"welcomePage.buttonHoverBackground": "#200000",
-		"extensionButton.prominentBackground": "#363537",
+		
+		"welcomePage.buttonBackground": "#200000",//"#4e321a",//"#363537",
+		"welcomePage.buttonHoverBackground": "#500000",
+		
+		"extensionButton.prominentBackground": "#147721",//"#363537",
 		"extensionButton.prominentForeground": "#f7f1ff",
-		"extensionButton.prominentHoverBackground": "#525053",
+		"extensionButton.prominentHoverBackground":  "#35b913",//"#525053",
 		"terminal.ansiBlack": "#363537",
 		"terminal.ansiRed": "#fc618d",
 		"terminal.ansiGreen": "#7bd88f",
